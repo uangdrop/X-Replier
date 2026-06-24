@@ -18,7 +18,7 @@ Ekstensi ini dilengkapi dengan sistem keamanan berlapis (**Secure Server-Side En
 ## 🛠️ Syarat Pendaftaran Pengguna
 
 Sebelum mengaktifkan ekstensi, pastikan akun Telegram Anda telah memenuhi kriteria wajib berikut:
-1. **Bergabung di Grup Resmi:** Anda harus terdaftar sebagai member aktif di grup KOPI HITAM DAO (`@uangdrop` & `@philocofee`).
+1. **Bergabung di Grup Resmi:** Anda harus terdaftar sebagai member aktif di grup KOPI HITAM DAO (`[Grup](https://t.me/philocofee)` & `[Channel](https://t.me/uangdrop)`).
 2. **Tag Nama Belakang:** Nama belakang pada profil Telegram Anda **WAJIB** mengandung kata `KOPI HITAM DAO` (Contoh: `Hannan KOPI HITAM DAO`).
 
 ---
