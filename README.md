@@ -27,7 +27,7 @@ Sebelum mengaktifkan ekstensi, pastikan akun Telegram Anda telah memenuhi kriter
 
 Karena ekstensi ini didistribusikan secara mandiri untuk internal komunitas, ikuti langkah instalasi berikut:
 
-1. **Download & Ekstrak:** Unduh file `.zip` rilis ekstensi terbaru yang dibagikan di grup, lalu ekstrak menjadi sebuah folder di komputer Anda.
+1. **Download & Ekstrak:** Unduh file `.zip` diatas, lalu ekstrak menjadi sebuah folder di komputer Anda.
 2. **Buka Halaman Ekstensi Chrome:** Buka browser Google Chrome, lalu akses ke URL `chrome://extensions/`.
 3. **Aktifkan Developer Mode:** Geser sakelar **"Developer mode"** di pojok kanan atas halaman hingga aktif.
 4. **Load Unpacked:** Klik tombol **"Load unpacked"** di pojok kiri atas, lalu pilih folder hasil ekstrak ekstensi tadi.
