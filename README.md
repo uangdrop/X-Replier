@@ -30,12 +30,12 @@ Sebelum mengaktifkan ekstensi, pastikan akun Telegram Anda telah memenuhi kriter
 Karena ekstensi ini didistribusikan secara mandiri untuk internal komunitas, ikuti langkah instalasi berikut:
 
 1. **Download & Ekstrak:** Unduh file `.zip` atau `.rar` diatas (Pilih salah satu), lalu ekstrak menjadi sebuah folder di komputer Anda.
-<img width="1744" height="1035" alt="Screenshot_7" src="https://github.com/user-attachments/assets/d4075f85-f612-4c3d-ac2e-9606a32dedb9" />
-
 2. **Buka Halaman Ekstensi Chrome:** Buka browser Google Chrome, lalu akses ke URL `chrome://extensions/`.
 3. **Aktifkan Developer Mode:** Geser sakelar **"Developer mode"** di pojok kanan atas halaman hingga aktif.
 4. **Load Unpacked:** Klik tombol **"Load unpacked"** di pojok kiri atas, lalu pilih folder hasil ekstrak ekstensi tadi.
 5. **Pin Ekstensi:** Klik ikon puzzle di baris menu Chrome Anda, lalu klik ikon PIN pada **X AI Replier KOPI HITAM DAO** agar muncul di toolbar.
+<img width="1744" height="1035" alt="Screenshot_7" src="https://github.com/user-attachments/assets/d4075f85-f612-4c3d-ac2e-9606a32dedb9" />
+
 
 ---
 
