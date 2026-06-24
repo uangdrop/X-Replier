@@ -1,6 +1,6 @@
 # 🚀 X AI Reply Assistant - KOPI HITAM DAO Edition
 
-Ekstensi Google Chrome berbasis AI (menggunakan local model Qwen2.5:1.5B via VPS) yang dirancang khusus untuk mempermudah member **KOPI HITAM DAO** dalam melakukan *grinding* dan berinteraksi secara natural di platform X (Twitter).
+Ekstensi Google Chrome berbasis AI (menggunakan local model Qwen2.5:32B) yang dirancang khusus untuk mempermudah member **KOPI HITAM DAO** dalam melakukan *grinding* dan berinteraksi secara natural di platform X (Twitter).
 
 Ekstensi ini dilengkapi dengan sistem keamanan berlapis (**Secure Server-Side Engine**) yang terintegrasi langsung dengan Bot Telegram komunitas untuk mencegah penyalahgunaan resource oleh pihak luar.
 
