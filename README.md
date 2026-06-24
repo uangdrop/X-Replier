@@ -8,7 +8,7 @@ Ekstensi ini dilengkapi dengan sistem keamanan berlapis (**Secure Server-Side En
 
 ## ✨ Fitur Utama
 
-* **AI Auto-Reply Instan:** Menghasilkan balasan tweet yang singkat, padat, dan natural (maksimal 10 kata) hanya dengan satu klik tombol `✨ AI Reply` di X.
+* **AI Auto-Reply Instan:** Menghasilkan balasan tweet yang singkat, padat, dan natural (maksimal 10 kata) hanya dengan satu klik tombol `☕️AI Reply` di X.
 * **Deteksi Bahasa Otomatis:** Mendukung generate otomatis dalam bahasa Indonesia yang santai, bahasa Inggris, serta bahasa Korea.
 * **Sistem Keamanan Anti-Sybil:** 1 Akun Telegram terkunci mutlak untuk 1 Device/Ekstensi menggunakan validasi UUID unik.
 * **Proteksi Real-Time Dinamis:** Akses AI otomatis ditangguhkan di hari kedua jika pengguna keluar dari grup atau menghapus tag nama komunitas di Telegram.
