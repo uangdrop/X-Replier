@@ -40,7 +40,7 @@ Karena ekstensi ini didistribusikan secara mandiri untuk internal komunitas, iku
 Setelah ekstensi terpasang, Anda harus mengaktifkan lisensi perangkat Anda terlebih dahulu:
 
 1. **Salin UUID Anda:** Klik ikon ekstensi KOPI HITAM DAO di pojok kanan atas Chrome, lalu salin (copy) kode **UUID unik** yang tertera di sana (contoh: `kh-dev-xxxxx`).
-2. **Buka Bot Telegram:** Masuk ke Telegram dan buka Bot Resmi Komunitas di **`@WIBtimebot`**.
+2. **Buka Bot Telegram:** Masuk ke Telegram dan buka Bot Resmi Komunitas di **[Misono Mika (聖園ミカ)](https://t.me/WIBtimebot)**.
 3. **Kirim Perintah Registrasi:** Ketik perintah berikut di ruang obrolan bot:
 ```text
    /register KODE_UUID_ANDA
